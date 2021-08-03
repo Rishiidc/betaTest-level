@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    background-color: aqua;
+    font-family: 'Otomanopee One', sans-serif;
+}
+a{
+   border-style: solid;
+   border-top: 5px; 
+   border-width: 5px;
+}
+body{
+    border-style: solid;
+    background-color: tomato;
+}
+p{
+    font-size: 10px;
+}
